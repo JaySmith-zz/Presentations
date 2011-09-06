@@ -1,0 +1,6 @@
+Title: Introduction to Agile Software Development
+
+Description:  In this presentation we will learn about what Agile Software Development is, how it got started.  We will also take a quick look at the Manifesto for Agile Software Development which guides many of the agile practices.   Will wrap up with looking at how an agile team gathers and plans, and accomplishes the work.
+
+Bio:
+Jay Smith works for Tyson Foods, Inc. in the Program Management Office as a Software Architect and Developer Evangelist where he works diligently with teams to test bed new projects and promote and teach development best practices.  Jay is a Microsoft ASP .NET MVP and a founding member and two time president of the Northwest Arkansas .NET User Group where he has grown to love working with the community.  Jay presents to the community on development and technology concepts and best practices, he also serves on two committees, Technology Team and Speakers Bureau, for the International .NET Association.  Jay is also the creator and host of User Group Radio a podcast dedicated to helping user groups be more successful.  You can learn more about Jay on his blog at http://jaysmith.us or follow him on twitter http://twitter.com/JaySmith.
