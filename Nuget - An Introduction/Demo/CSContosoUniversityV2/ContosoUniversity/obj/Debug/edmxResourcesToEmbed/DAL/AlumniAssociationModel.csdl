@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2008/09/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="AlumniAssociationModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+  <EntityContainer Name="AlumniAssociationModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Alumni" EntityType="AlumniAssociationModel.Alumnus" />
+    <EntitySet Name="Donations" EntityType="AlumniAssociationModel.Donation" />
+    <AssociationSet Name="AlumnusDonation" Association="AlumniAssociationModel.AlumnusDonation">
+      <End Role="Alumnus" EntitySet="Alumni" />
+      <End Role="Donation" EntitySet="Donations" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Alumnus">
+    <Key>
+      <PropertyRef Name="AlumnusId" />
+    </Key>
+    <Property Type="Int32" Name="AlumnusId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Name" Nullable="false" />
+    <NavigationProperty Name="Donations" Relationship="AlumniAssociationModel.AlumnusDonation" FromRole="Alumnus" ToRole="Donation" />
+  </EntityType>
+  <EntityType Name="Donation">
+    <Key>
+      <PropertyRef Name="DonationId" />
+    </Key>
+    <Property Type="Int32" Name="DonationId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="DateAndAmount" Nullable="false" />
+    <NavigationProperty Name="Alumnus" Relationship="AlumniAssociationModel.AlumnusDonation" FromRole="Donation" ToRole="Alumnus" />
+    <Property Type="Int32" Name="AlumnusAlumnusId" Nullable="false" />
+  </EntityType>
+  <Association Name="AlumnusDonation">
+    <End Type="AlumniAssociationModel.Alumnus" Role="Alumnus" Multiplicity="1" />
+    <End Type="AlumniAssociationModel.Donation" Role="Donation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Alumnus">
+        <PropertyRef Name="AlumnusId" />
+      </Principal>
+      <Dependent Role="Donation">
+        <PropertyRef Name="AlumnusAlumnusId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

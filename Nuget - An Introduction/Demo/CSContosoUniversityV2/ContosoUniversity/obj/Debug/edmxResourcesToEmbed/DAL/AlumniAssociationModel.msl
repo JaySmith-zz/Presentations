@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AlumniAssociationModelStoreContainer" CdmEntityContainer="AlumniAssociationModelContainer">
+    <EntitySetMapping Name="Alumni">
+      <EntityTypeMapping TypeName="IsTypeOf(AlumniAssociationModel.Alumnus)">
+        <MappingFragment StoreEntitySet="Alumni">
+          <ScalarProperty Name="AlumnusId" ColumnName="AlumnusId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Donations">
+      <EntityTypeMapping TypeName="IsTypeOf(AlumniAssociationModel.Donation)">
+        <MappingFragment StoreEntitySet="Donations">
+          <ScalarProperty Name="DonationId" ColumnName="DonationId" />
+          <ScalarProperty Name="DateAndAmount" ColumnName="DateAndAmount" />
+          <ScalarProperty Name="AlumnusAlumnusId" ColumnName="AlumnusAlumnusId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

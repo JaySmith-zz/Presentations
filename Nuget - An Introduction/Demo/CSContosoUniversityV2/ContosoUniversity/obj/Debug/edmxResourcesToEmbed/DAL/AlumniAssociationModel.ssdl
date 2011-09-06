@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AlumniAssociationModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="AlumniAssociationModelStoreContainer">
+    <EntitySet Name="Alumni" EntityType="AlumniAssociationModel.Store.Alumni" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Donations" EntityType="AlumniAssociationModel.Store.Donations" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="AlumnusDonation" Association="AlumniAssociationModel.Store.AlumnusDonation">
+      <End Role="Alumnus" EntitySet="Alumni" />
+      <End Role="Donation" EntitySet="Donations" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Alumni">
+    <Key>
+      <PropertyRef Name="AlumnusId" />
+    </Key>
+    <Property Name="AlumnusId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Donations">
+    <Key>
+      <PropertyRef Name="DonationId" />
+    </Key>
+    <Property Name="DonationId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DateAndAmount" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="AlumnusAlumnusId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="AlumnusDonation">
+    <End Role="Alumnus" Type="AlumniAssociationModel.Store.Alumni" Multiplicity="1" />
+    <End Role="Donation" Type="AlumniAssociationModel.Store.Donations" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Alumnus">
+        <PropertyRef Name="AlumnusId" />
+      </Principal>
+      <Dependent Role="Donation">
+        <PropertyRef Name="AlumnusAlumnusId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

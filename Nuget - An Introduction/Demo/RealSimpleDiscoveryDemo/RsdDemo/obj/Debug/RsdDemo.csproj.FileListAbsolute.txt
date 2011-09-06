@@ -1,0 +1,11 @@
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\RealSimpleDiscoveryDemo\RsdDemo\RsdDemo\bin\RsdDemo.dll
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\RealSimpleDiscoveryDemo\RsdDemo\RsdDemo\bin\RsdDemo.pdb
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\RealSimpleDiscoveryDemo\RsdDemo\RsdDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\RealSimpleDiscoveryDemo\RsdDemo\RsdDemo\obj\Debug\RsdDemo.dll
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\RealSimpleDiscoveryDemo\RsdDemo\RsdDemo\obj\Debug\RsdDemo.pdb
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\RealSimpleDiscoveryDemo\RsdDemo\bin\RsdDemo.dll
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\RealSimpleDiscoveryDemo\RsdDemo\bin\RsdDemo.pdb
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\RealSimpleDiscoveryDemo\RsdDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\RealSimpleDiscoveryDemo\RsdDemo\obj\Debug\RsdDemo.dll
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\RealSimpleDiscoveryDemo\RsdDemo\obj\Debug\RsdDemo.pdb
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\RealSimpleDiscoveryDemo\RsdDemo\bin\JaySmith.RealSimpleDiscovery.dll

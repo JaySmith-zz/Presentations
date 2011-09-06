@@ -1,0 +1,14 @@
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\CSContosoUniversityV2\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.Tests.dll
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\CSContosoUniversityV2\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.Tests.pdb
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\CSContosoUniversityV2\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.dll
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\CSContosoUniversityV2\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.pdb
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\CSContosoUniversityV2\ContosoUniversity.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\CSContosoUniversityV2\ContosoUniversity.Tests\obj\Debug\ContosoUniversity.Tests.dll
+C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\CSContosoUniversityV2\ContosoUniversity.Tests\obj\Debug\ContosoUniversity.Tests.pdb
+C:\Solutions\Presentations\Nuget - An Introduction\Demo\CSContosoUniversityV2\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.Tests.dll
+C:\Solutions\Presentations\Nuget - An Introduction\Demo\CSContosoUniversityV2\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.Tests.pdb
+C:\Solutions\Presentations\Nuget - An Introduction\Demo\CSContosoUniversityV2\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.dll
+C:\Solutions\Presentations\Nuget - An Introduction\Demo\CSContosoUniversityV2\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.pdb
+C:\Solutions\Presentations\Nuget - An Introduction\Demo\CSContosoUniversityV2\ContosoUniversity.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Solutions\Presentations\Nuget - An Introduction\Demo\CSContosoUniversityV2\ContosoUniversity.Tests\obj\Debug\ContosoUniversity.Tests.dll
+C:\Solutions\Presentations\Nuget - An Introduction\Demo\CSContosoUniversityV2\ContosoUniversity.Tests\obj\Debug\ContosoUniversity.Tests.pdb
