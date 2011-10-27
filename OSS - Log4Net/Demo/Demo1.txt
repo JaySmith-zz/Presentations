@@ -1,9 +1,4 @@
-Download Log4Net
-    http://logging.apache.org/log4net/download.html
-
-Unzip files
-
-Add reference to the Log4Net library
+Use nuget to install log4net
 
 -------------------------------------------------
 About log4net
