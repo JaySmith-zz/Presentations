@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Backup/Appenders/WmiAppender/cs/src
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Backup/Appenders/WmiAppender/cs/src/AssemblyInfo.cs
+END
+WmiAppender.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Backup/Appenders/WmiAppender/cs/src/WmiAppender.cs
+END
+IWmiBoundEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Backup/Appenders/WmiAppender/cs/src/IWmiBoundEvent.cs
+END
+AssemblyVersionInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Backup/Appenders/WmiAppender/cs/src/AssemblyVersionInfo.cs
+END
+WmiLoggingEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Backup/Appenders/WmiAppender/cs/src/WmiLoggingEvent.cs
+END
+WmiAppender.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Backup/Appenders/WmiAppender/cs/src/WmiAppender.csproj
+END
+WmiInstaller.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Backup/Appenders/WmiAppender/cs/src/WmiInstaller.cs
+END
+WmiLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Backup/Appenders/WmiAppender/cs/src/WmiLayout.cs
+END

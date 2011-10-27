@@ -1,0 +1,92 @@
+Model View Presenter
+
+Implementing Model View Presenter
+
+View = a webpage or windows forms
+Model = represents the real world, a business object
+Presenter = Act as a intermediary between the Model and the View
+
+Script
+
+We have a simple registration page that has 3 pieces of data we are concerned about 
+FirstName, LastName, and Age.  We want the users to fill in this information and
+click the save button.  When the user clicks save we want to persist this information
+somehow,  we are not going to be concerened about what happens with the data in this 
+demo we are just going to assume that it is going to do what we expect.
+
+Add Attendee object to Business Layer
+	Represents the Business Logic layer, which will handle talking to the Data Access Layer
+	Add FirsName, LastName, Age properties
+	Add Save Method. Just returns true
+	
+	Normally we would just create the object in our UI layer from the form.
+	1. Add reference to buisness layer
+	2. On Registration Click event create an Attendee Object, set it's properties and call save.
+	
+	Is there anything wrong with this?
+	No!, this is prefectly legitimate code.  The compiler likes it. There is however a disign flaw.  
+	Our Form is not tightly coupled with the business object.  This makes it very hard to test and maintain.
+	I imagine we are going to use this Attendee object alot and it would be nice not to even 
+	have to touch the UI to change the business layer.
+	
+	To do that lets move this code to a presentation layer.
+	
+Code normally written in the UI/View, Webpage are moved into the presentation layer.
+More testable and more reusable, plan for the future, code reuse
+
+1.	Add IRegistrationView Interface to Presentation Layer
+This is the contract that will be used to communicate between the view and the presenter.
+
+2.	Add the presenter class
+It has a reference to the interface which will be the actual web page.
+The contructor we pass a refernce to the webpage
+In the initialize we wire up the event handlers for the Save method.
+
+3.	Code the Save method
+	Looks just like the code we hade before in the registration click event
+
+4.	Implement Interface on Web Page
+	4.1	Add reference to BusinessLayer
+	4.2	Add interface inheritance
+	4.3	Implement interface
+	4.4	Wire up getters and setters
+
+5	 Create reference to the presenter
+	5.1 add private presenter object
+	5.2 add instance in override oninit
+
+6.	Add some break points and run demo
+
+-----------------------------------------------------------------------
+Create Windows app
+
+Add existing project to solution
+	Select the existing WinForms project
+
+Add References
+	1.	Add reference to Attendee.PresentationLayer_CS
+
+Implement Interface on FormRegistration
+
+	2.	Add - using Attendee.PresentationLayer_CS;
+	
+	3.	Add Interface IRegistrationView to FormRegistration
+	
+	4.	Implement Interface and wire up properties
+	
+	5.	Create Presenter - RegistrationPresenter _presenter;
+		Add instace in Page Load
+			_presenter = new RegistrationPresenter(this);
+			
+	6.	Raise Initialize event when page loads
+	
+		if (Initialize != null)
+                Initialize(this, EventArgs.Empty);
+				
+	7.	Raise RegisterUser event when register button is clicked
+		if (RegisterUser != null)
+                RegisterUser(this, EventArgs.Empty);
+				
+	8.	Discuss message going back tot the UI, like Registration successfull, etc.
+	
+	9.	Walk through code.

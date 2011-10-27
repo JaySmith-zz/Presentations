@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="1073741836">
+  <Assembly Name="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="3f71e63f-fdd6-4e5d-b341-e76a5c842275" Timestamp="633529896480000000" XmlDocIndexTimestamp="633490219300000000" />
+  <Assembly Name="System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="92c2705d-5659-403c-ac21-1ddc8b4368c6" Timestamp="633529896480000000" XmlDocIndexTimestamp="633490219300000000" />
+  <Assembly Name="System.Data.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="921fe5b2-87ad-40c8-bb48-aa91ca143993" Timestamp="633529896480000000" XmlDocIndexTimestamp="633491954500000000" />
+  <Assembly Name="System.ServiceModel.Web, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Image="5790c7b0-c8c6-4d09-8305-fd2bf0c061e3" Timestamp="633529896480000000" XmlDocIndexTimestamp="633480720880000000" />
+  <Assembly Name="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Image="b87687e6-426b-46b4-ae15-7f72e7193bf2" Timestamp="633529896480000000" XmlDocIndexTimestamp="633492823960000000" />
+  <Assembly Name="System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="77a23a9b-7bd1-4d35-8f98-1c0830b2ce41" Timestamp="633529896480000000" XmlDocIndexTimestamp="633490219300000000" />
+  <Assembly Name="nunit.framework, Version=2.4.8.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77" Image="53249cb2-b496-4a3a-bdca-4f04d360bbdd" Timestamp="633736275200000000" XmlDocIndexTimestamp="633764816873816000" />
+  <Assembly Name="JetBrains.Annotations, Version=4.1.933.3, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="744eea34-c147-4a6b-832c-cf2ad7cb9413" Timestamp="633559922920000000" XmlDocIndexTimestamp="633559922920000000" />
+</Assemblies>

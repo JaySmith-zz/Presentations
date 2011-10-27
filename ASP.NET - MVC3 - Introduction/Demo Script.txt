@@ -1,0 +1,35 @@
+Introduction to ASP MVC 3 Script
+
+Open Visual Studio 2010
+
+DEMO 1: Create new ASP NET MVC3 Solution
+
+	Create New default ASPMV Project
+		Navigate to Web
+		Show them the new MVC 3 project types
+		Explain that you can get it by using the Web Platform Installer
+		
+		We are going to build a Movie ???
+		
+		Name Solution MvcMovie
+		
+		Discuss the new MVC appliation dialog
+			Show how to add unit test project
+			select "Internat Application"
+			
+			Razor view engine ???
+			
+		Run  project to show the default application
+		
+		Discuss project layout, convention over configuration
+		
+DEMO 2: Adding a Controller and View
+	
+	Controller
+		Add a new controller with name HelloWorldController
+		
+		snippet: mvc3-1
+		change return type to string
+		return "This is my <b>default</b> action...";
+			
+	

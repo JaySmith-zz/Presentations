@@ -1,0 +1,7 @@
+bin\Attendee.Web_CS.dll
+bin\Attendee.Web_CS.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Attendee.Web_CS.dll
+obj\Debug\Attendee.Web_CS.pdb
+bin\Attendee.PresentationLayer_CS.dll
+bin\Attendee.PresentationLayer_CS.pdb

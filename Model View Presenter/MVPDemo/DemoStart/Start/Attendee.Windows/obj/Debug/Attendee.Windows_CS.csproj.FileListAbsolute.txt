@@ -1,0 +1,10 @@
+B:\Documents\Projects\Supervising Controller Demo\Attendee.Windows_CS\bin\Debug\Attendee.Windows_CS.exe
+B:\Documents\Projects\Supervising Controller Demo\Attendee.Windows_CS\bin\Debug\Attendee.Windows_CS.pdb
+B:\Documents\Projects\Supervising Controller Demo\Attendee.Windows_CS\bin\Debug\Attendee.PresentationLayer_CS.dll
+B:\Documents\Projects\Supervising Controller Demo\Attendee.Windows_CS\bin\Debug\Attendee.PresentationLayer_CS.pdb
+B:\Documents\Projects\Supervising Controller Demo\Attendee.Windows_CS\obj\Debug\ResolveAssemblyReference.cache
+B:\Documents\Projects\Supervising Controller Demo\Attendee.Windows_CS\obj\Debug\Attendee.Windows_CS.FormRegistration.resources
+B:\Documents\Projects\Supervising Controller Demo\Attendee.Windows_CS\obj\Debug\Attendee.Windows_CS.Properties.Resources.resources
+B:\Documents\Projects\Supervising Controller Demo\Attendee.Windows_CS\obj\Debug\Attendee.Windows_CS.csproj.GenerateResource.Cache
+B:\Documents\Projects\Supervising Controller Demo\Attendee.Windows_CS\obj\Debug\Attendee.Windows_CS.exe
+B:\Documents\Projects\Supervising Controller Demo\Attendee.Windows_CS\obj\Debug\Attendee.Windows_CS.pdb

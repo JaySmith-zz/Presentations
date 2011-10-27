@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Attendee.Windows_CS.FormRegistration.resources
+obj\Debug\Attendee.Windows_CS.Properties.Resources.resources
+obj\Debug\Attendee.Windows_CS.csproj.GenerateResource.Cache
+bin\Debug\Attendee.Windows_CS.exe
+bin\Debug\Attendee.Windows_CS.pdb
+bin\Debug\Attendee.PresentationLayer_CS.dll
+bin\Debug\Attendee.PresentationLayer_CS.pdb
+obj\Debug\Attendee.Windows_CS.exe
+obj\Debug\Attendee.Windows_CS.pdb

@@ -1,0 +1,11 @@
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Test\bin\Debug\Attendee.Test.dll
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Test\bin\Debug\Attendee.Test.pdb
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Test\bin\Debug\Attendee.PresentationLayer_CS.dll
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Test\bin\Debug\nunit.framework.dll
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Test\bin\Debug\Attendee.BusinessLayer_CS.dll
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Test\bin\Debug\nunit.framework.xml
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Test\bin\Debug\Attendee.BusinessLayer_CS.pdb
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Test\bin\Debug\Attendee.PresentationLayer_CS.pdb
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Test\obj\Debug\Attendee.Test.dll
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Test\obj\Debug\Attendee.Test.pdb

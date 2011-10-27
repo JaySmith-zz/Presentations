@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Config
+END
+DomainAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Config/DomainAttribute.cs
+END
+SecurityContextProviderAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Config/SecurityContextProviderAttribute.cs
+END
+AliasRepositoryAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Config/AliasRepositoryAttribute.cs
+END
+DOMConfigurator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Config/DOMConfigurator.cs
+END
+PluginAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Config/PluginAttribute.cs
+END
+RepositoryAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Config/RepositoryAttribute.cs
+END
+XmlConfigurator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Config/XmlConfigurator.cs
+END
+BasicConfigurator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Config/BasicConfigurator.cs
+END
+AliasDomainAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Config/AliasDomainAttribute.cs
+END
+ConfiguratorAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Config/ConfiguratorAttribute.cs
+END
+DOMConfiguratorAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Config/DOMConfiguratorAttribute.cs
+END
+Log4NetConfigurationSectionHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Config/Log4NetConfigurationSectionHandler.cs
+END
+XmlConfiguratorAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Config/XmlConfiguratorAttribute.cs
+END

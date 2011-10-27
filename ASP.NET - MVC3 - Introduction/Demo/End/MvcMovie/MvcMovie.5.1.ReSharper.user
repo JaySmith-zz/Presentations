@@ -1,0 +1,34 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3721868E-C478-42AA-8107-30C744DCBA18/d:Controllers/f:HomeController.cs" caret="147" fromTop="7" />
+      <File id="3721868E-C478-42AA-8107-30C744DCBA18/d:Controllers/f:HelloWorldController.cs" caret="351" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3721868E-C478-42AA-8107-30C744DCBA18/d:Controllers/f:HelloWorldController.cs" caret="273" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="return" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

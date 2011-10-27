@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\VBS.dll
+bin\VBS.pdb
+bin\VBS.PresentationLayer.dll
+bin\VBS.PresentationLayer.pdb
+obj\Debug\VBS.dll
+obj\Debug\VBS.pdb

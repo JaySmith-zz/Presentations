@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Deploy" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+   <PropertyGroup>
+      <Configuration>Release</Configuration>
+      <SolutionFileName>Demo1.sln</SolutionFileName>
+      <WebProjectDir>Demo1</WebProjectDir>
+      <WebProjectFileName>Demo1\Demo1.csproj</WebProjectFileName>
+      <DestinationDir>D:\Temp\Deployments\Demo1</DestinationDir>
+     <TargetEnvironment>Local</TargetEnvironment>
+   </PropertyGroup>
+
+   <Target Name="Deploy" DependsOnTargets="BuildSolution">
+
+      <Message Text=" " />
+      <Message Text="      Starting the deployment " />
+      <Message Text=" " />
+
+     <MSBuild
+         Projects="$(WebProjectFileName)"
+         Targets="ResolveReferences;_CopyWebApplication"
+         Properties="Configuration=$(Configuration);ReferenceCopyLocalPaths=$(DestinationDir);WebProjectOutputDir=$(DestinationDir);OutDir=$(DestinationDir)\bin\" />
+
+     <!-- Delete all of the config files from the deployment directory -->
+     <Exec Command="del $(DestinationDir)\*.config" />
+     
+     <!-- Copy the correct build file base on the target environment to the deployment directory-->
+     <Copy SourceFiles="$(WebProjectDir)/Web-$(TargetEnvironment).config" 
+           DestinationFiles="$(DestinationDir)/Web.config" />
+     
+      <Message Text=" " />
+      <Message Text="      Finished deployment " />
+      <Message Text=" " />
+
+     <Exec Command="explorer.exe $(DestinationDir)" IgnoreExitCode="true"/>
+
+   </Target>
+
+   <Target Name="BuildSolution">
+
+      <Message Text=" " />
+      <Message Text="      Building the solution " />
+      <Message Text=" " />
+
+      <MSBuild Projects="$(SolutionFileName)" Targets="clean;build" Properties="Configuration=$(Configuration)" />
+      <Exec Command="c:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_compiler -v / -p $(WebProjectDir)" />
+
+      <Message Text=" " />
+      <Message Text="      Finished building " />
+      <Message Text=" " />
+
+   </Target>
+
+</Project>

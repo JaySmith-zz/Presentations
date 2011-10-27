@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/tests/src/Appender
+END
+EventLogAppenderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/tests/src/Appender/EventLogAppenderTest.cs
+END
+RemotingAppenderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/tests/src/Appender/RemotingAppenderTest.cs
+END
+CountingAppender.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/tests/src/Appender/CountingAppender.cs
+END
+RollingFileAppenderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/tests/src/Appender/RollingFileAppenderTest.cs
+END
+StringAppender.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/tests/src/Appender/StringAppender.cs
+END
+BufferingAppenderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/tests/src/Appender/BufferingAppenderTest.cs
+END

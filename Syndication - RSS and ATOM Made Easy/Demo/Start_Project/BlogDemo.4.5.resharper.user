@@ -1,0 +1,192 @@
+<Configuration>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:EditPost.aspx.cs" caret="556" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:ViewPost.aspx.cs" caret="588" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:Properties/f:Settings.Designer.cs" caret="0" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:IPostRepository.cs" caret="72" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:Default.aspx.cs" caret="230" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:Web.config" caret="0" fromTop="0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:PostRepository.cs" caret="0" fromTop="0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:BlogDemo.designer.cs" caret="16707" fromTop="9" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="1592" fromTop="24" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:DisplayExternalFeed.aspx" caret="608" fromTop="8" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:FeedHandler.ashx.cs" caret="245" fromTop="0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:DisplayExternalFeed.aspx.cs" caret="685" fromTop="21" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:IPostRepository.cs" caret="73" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="1668" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:FeedHandler.ashx.cs" caret="0" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:PostRepository.cs" caret="938" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:PostRepository.cs" caret="222" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="1668" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="1668" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:DisplayExternalFeed.aspx.cs" caret="0" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:DisplayExternalFeed.aspx.cs" caret="278" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:DisplayExternalFeed.aspx.cs" caret="278" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="1123" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:DisplayExternalFeed.aspx.cs" caret="278" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:DisplayExternalFeed.aspx.cs" caret="278" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="1123" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="1123" fromTop="5" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:DisplayExternalFeed.aspx.cs" caret="278" fromTop="12" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="1113" fromTop="11" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="1070" fromTop="23" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:PostRepository.cs" caret="1848" fromTop="12" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="224" fromTop="10" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="736" fromTop="24" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:FeedHandler.ashx.cs" caret="708" fromTop="7" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:FeedHandler.ashx.cs" caret="1174" fromTop="7" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:FeedHandler.ashx.cs" caret="621" fromTop="10" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="1303" fromTop="18" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:PostRepository.cs" caret="832" fromTop="18" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:DisplayExternalFeed.aspx.cs" caret="447" fromTop="14" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:DisplayExternalFeed.aspx.cs" caret="794" fromTop="9" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="1593" fromTop="23" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="1668" fromTop="23" />
+    </RecentEdits>
+  </RecentFiles>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+      <setting name="UseSolutionBuilder">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="3" />
+      <Item value="post" priority="15" />
+      <Item value="var" priority="13" />
+      <Item value="new" priority="8" />
+      <Item value="Post" priority="3" />
+      <Item value="item" priority="8" />
+      <Item value="int" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="posts" priority="3" />
+      <Item value="PostRepository" priority="1" />
+      <Item value="from" priority="2" />
+      <Item value="where" priority="1" />
+      <Item value="p" priority="1" />
+      <Item value="select" priority="2" />
+      <Item value="Single" priority="0" />
+      <Item value="xmlDoc" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="_data" priority="0" />
+      <Item value="dataStore" priority="0" />
+      <Item value="postData" priority="0" />
+      <Item value="Session" priority="0" />
+      <Item value="IList" priority="0" />
+      <Item value="List&lt;Post&gt;" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="i" priority="0" />
+      <Item value="DateTime" priority="0" />
+      <Item value="Properties" priority="1" />
+      <Item value="Settings" priority="1" />
+      <Item value="else" priority="1" />
+      <Item value="Authors" priority="0" />
+      <Item value="SyndicationPerson" priority="1" />
+      <Item value="Author" priority="1" />
+      <Item value="author" priority="0" />
+      <Item value="listViewPosts" priority="3" />
+      <Item value="feed" priority="4" />
+      <Item value="SyndicationItem" priority="1" />
+      <Item value="TextSyndicationContent" priority="0" />
+      <Item value="Eval" priority="0" />
+      <Item value="f" priority="1" />
+      <Item value="throw" priority="0" />
+      <Item value="ApplicationException" priority="0" />
+      <Item value="SyndicationFeed" priority="1" />
+      <Item value="XmlReader" priority="0" />
+      <Item value="feedUrl" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlogDemo.Web.Post">
+      <Item value="PostID" priority="2" />
+      <Item value="PostContent" priority="0" />
+      <Item value="PostDate" priority="0" />
+      <Item value="Author" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XElement">
+      <Item value="Element" priority="3" />
+      <Item value="Value" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BlogDemo.Web.DataAccess.PostRepository">
+      <Item value="GetAllPosts" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Single" priority="0" />
+      <Item value="Take" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlogDemo.Web.Domain.Post">
+      <Item value="AuthorEmail" priority="0" />
+      <Item value="PostId" priority="0" />
+      <Item value="PostContent" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="PostDate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XDocument">
+      <Item value="Remove" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlogDemo.Web.Author">
+      <Item value="Name" priority="6" />
+      <Item value="Email" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BlogDemo.Web.Properties.Settings">
+      <Item value="Default" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlogDemo.Web.Properties.Settings">
+      <Item value="UseDb" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.Syndication.SyndicationItem">
+      <Item value="Authors" priority="1" />
+      <Item value="Id" priority="0" />
+      <Item value="PublishDate" priority="0" />
+      <Item value="Content" priority="4" />
+      <Item value="Categories" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.Collection`1">
+      <Item value="Add" priority="1" />
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListView">
+      <Item value="DataSource" priority="1" />
+      <Item value="DataBind" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.Syndication.SyndicationFeed">
+      <Item value="Items" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.Syndication.SyndicationContent">
+      <Item value="ToString" priority="1" />
+      <Item value="WriteTo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.XmlReader">
+      <Item value="Create" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.Syndication.SyndicationFeed">
+      <Item value="Load" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

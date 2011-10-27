@@ -1,0 +1,10 @@
+bin\Debug\VBS Windows.exe
+bin\Debug\VBS Windows.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\VBS_Windows.Properties.Resources.resources
+obj\Debug\VBS Windows.csproj.GenerateResource.Cache
+obj\Debug\VBS Windows.exe
+obj\Debug\VBS Windows.pdb
+bin\Debug\VBS.PresentationLayer.dll
+bin\Debug\VBS.PresentationLayer.pdb
+obj\Debug\VBS_Windows.FormRegistration.resources

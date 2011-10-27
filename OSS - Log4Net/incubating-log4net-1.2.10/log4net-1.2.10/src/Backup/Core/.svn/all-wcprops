@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core
+END
+SecurityContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/SecurityContext.cs
+END
+WrapperMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/WrapperMap.cs
+END
+IOptionHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/IOptionHandler.cs
+END
+IAppenderAttachable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/IAppenderAttachable.cs
+END
+LevelCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/LevelCollection.cs
+END
+LocationInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/LocationInfo.cs
+END
+ErrorCode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/ErrorCode.cs
+END
+DefaultRepositorySelector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/DefaultRepositorySelector.cs
+END
+CompactRepositorySelector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/CompactRepositorySelector.cs
+END
+SecurityContextProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/SecurityContextProvider.cs
+END
+ILogger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/ILogger.cs
+END
+LoggingEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/LoggingEvent.cs
+END
+IRepositorySelector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/IRepositorySelector.cs
+END
+ILoggerWrapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/ILoggerWrapper.cs
+END
+LevelEvaluator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/LevelEvaluator.cs
+END
+IFixingRequired.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/IFixingRequired.cs
+END
+ITriggeringEventEvaluator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/ITriggeringEventEvaluator.cs
+END
+IErrorHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/IErrorHandler.cs
+END
+LogException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/LogException.cs
+END
+LoggerWrapperImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/LoggerWrapperImpl.cs
+END
+LogImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/LogImpl.cs
+END
+LevelMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/LevelMap.cs
+END
+Level.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/Level.cs
+END
+LoggerManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Core/LoggerManager.cs
+END

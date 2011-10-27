@@ -1,0 +1,13 @@
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_End\bin\Debug\Attendee.Windows_CS.exe
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_End\bin\Debug\Attendee.Windows_CS.pdb
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_End\obj\Debug\ResolveAssemblyReference.cache
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_End\obj\Debug\Attendee.Windows_CS.FormRegistration.resources
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_End\obj\Debug\Attendee.Windows_CS.Properties.Resources.resources
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_End\obj\Debug\ResGen.read.1.tlog
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_End\obj\Debug\ResGen.write.1.tlog
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_End\obj\Debug\Attendee.Windows_CS.exe
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_End\obj\Debug\Attendee.Windows_CS.pdb
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_End\bin\Debug\Attendee.PresentationLayer.dll
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_End\bin\Debug\Attendee.BusinessLayer.dll
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_End\bin\Debug\Attendee.PresentationLayer.pdb
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_End\bin\Debug\Attendee.BusinessLayer.pdb

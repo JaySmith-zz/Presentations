@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="779e44ee-6734-4f03-b7a5-8cfac5976e94" name="smithjay@FA2-0351 2011-09-15 10:20:58" runUser="TYSONET\smithjay" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="7722b13d-385b-4e24-a6a1-c7e97c0ec55a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="smithjay_FA2-0351 2011-09-15 10_20_58">
+      <DeploymentItem filename="C:\Solutions\Presentations\Model View Presenter\Demo\Core\bin\Debug\Core.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-09-15T10:20:58.2723210-05:00" queuing="2011-09-15T10:21:05.3650302-05:00" start="2011-09-15T10:21:05.7040641-05:00" finish="2011-09-15T10:21:44.5649498-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ViewRaisesTheAttenceSaveEvent" storage="c:\solutions\presentations\model view presenter\demo\testproject\bin\debug\testproject.dll" id="9fcc5f0a-de8e-c281-099f-b8f4d851d13d">
+      <Execution id="de0a1b19-f781-499d-9450-04cbaf8bd377" />
+      <TestMethod codeBase="C:/Solutions/Presentations/Model View Presenter/Demo/TestProject/bin/Debug/TestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject.RegistrationPresenterTest, TestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ViewRaisesTheAttenceSaveEvent" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="9fcc5f0a-de8e-c281-099f-b8f4d851d13d" executionId="de0a1b19-f781-499d-9450-04cbaf8bd377" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="de0a1b19-f781-499d-9450-04cbaf8bd377" testId="9fcc5f0a-de8e-c281-099f-b8f4d851d13d" testName="ViewRaisesTheAttenceSaveEvent" computerName="FA2-0351" duration="00:00:34.0249086" startTime="2011-09-15T10:21:05.9470884-05:00" endTime="2011-09-15T10:21:44.3359269-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="de0a1b19-f781-499d-9450-04cbaf8bd377">
+    </UnitTestResult>
+  </Results>
+</TestRun>

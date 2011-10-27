@@ -1,0 +1,14 @@
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WebApp\bin\WebApp.dll
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WebApp\bin\WebApp.pdb
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WebApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WebApp\obj\Debug\WebApp.dll
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WebApp\obj\Debug\WebApp.pdb
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WebApp\bin\Core.dll
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WebApp\bin\Core.pdb
+C:\Solutions\Presentations\Model View Presenter\Demo\WebApp\bin\WebApp.dll
+C:\Solutions\Presentations\Model View Presenter\Demo\WebApp\bin\WebApp.pdb
+C:\Solutions\Presentations\Model View Presenter\Demo\WebApp\bin\Core.dll
+C:\Solutions\Presentations\Model View Presenter\Demo\WebApp\bin\Core.pdb
+C:\Solutions\Presentations\Model View Presenter\Demo\WebApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Solutions\Presentations\Model View Presenter\Demo\WebApp\obj\Debug\WebApp.dll
+C:\Solutions\Presentations\Model View Presenter\Demo\WebApp\obj\Debug\WebApp.pdb

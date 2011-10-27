@@ -1,0 +1,29 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost/vbs/">
+    <file relUrl="bin/Microsoft.Practices.ObjectBuilder.dll" publishTime="3/14/2007 9:03:34 AM" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll" publishTime="3/14/2007 9:03:50 AM" />
+    <file relUrl="bin/VBS.BusinessLayer.pdb" publishTime="7/20/2007 9:32:16 AM" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Common.xml" publishTime="3/14/2007 9:03:38 AM" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Caching.Database.xml" publishTime="3/14/2007 9:03:51 AM" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll" publishTime="3/14/2007 9:03:39 AM" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Caching.xml" publishTime="3/14/2007 9:03:41 AM" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Caching.Database.dll" publishTime="3/14/2007 9:03:52 AM" />
+    <file relUrl="bin/VBS.PresentationLayer.dll" publishTime="7/20/2007 9:32:18 AM" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Data.xml" publishTime="3/14/2007 9:03:50 AM" />
+    <file relUrl="ThankYou.aspx" publishTime="6/25/2007 9:29:01 PM" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Caching.dll" publishTime="3/14/2007 9:03:42 AM" />
+    <file relUrl="bin/VBS.BusinessLayer.dll" publishTime="7/20/2007 9:32:17 AM" />
+    <file relUrl="bin/VBS.PresentationLayer.pdb" publishTime="7/20/2007 9:32:18 AM" />
+    <file relUrl="bin/VBS.DataAccessLayer.dll" publishTime="7/20/2007 9:32:18 AM" />
+    <file relUrl="bin/Microsoft.Practices.ObjectBuilder.xml" publishTime="3/14/2007 9:03:33 AM" />
+    <file relUrl="Web.config" publishTime="7/20/2007 9:58:21 AM" />
+    <file relUrl="AttendanceReport.aspx" publishTime="7/20/2007 9:54:35 AM" />
+    <file relUrl="Default.aspx" publishTime="6/15/2007 8:07:13 PM" />
+    <file relUrl="bin/VBS.DataAccessLayer.pdb" publishTime="7/20/2007 9:32:17 AM" />
+    <file relUrl="bin/VBS.pdb" publishTime="7/20/2007 9:32:20 AM" />
+    <file relUrl="bin/VBS.dll" publishTime="7/20/2007 9:32:20 AM" />
+    <file relUrl="Registration.aspx" publishTime="7/17/2007 4:04:51 PM" />
+    <file relUrl="Images/LOGOc.gif" publishTime="5/23/2007 11:14:46 PM" />
+  </publishTarget>
+  <publishTarget publishUrl="http://vbs.sequoyah-umc.org/" />
+</publishData>

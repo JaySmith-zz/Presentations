@@ -1,0 +1,62 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8D52275A-F019-4F5B-A23A-34EB8D0070AB/f:Register.aspx" caret="0" fromTop="0" />
+      <File id="8D52275A-F019-4F5B-A23A-34EB8D0070AB/f:Site.Master.cs" caret="309" fromTop="12" />
+      <File id="8D52275A-F019-4F5B-A23A-34EB8D0070AB/f:RegisterView.aspx.cs" caret="1189" fromTop="18" />
+      <File id="8D52275A-F019-4F5B-A23A-34EB8D0070AB/f:Register.aspx.cs" caret="764" fromTop="20" />
+      <File id="A0C4099C-51D7-41E3-A627-DEBF067C5D4F/d:Presenters/f:RegistrationPresenter.cs" caret="1132" fromTop="13" />
+      <File id="A0C4099C-51D7-41E3-A627-DEBF067C5D4F/d:Views/f:IRegistrationView.cs" caret="0" fromTop="0" />
+      <File id="B5D845A9-0017-44E0-A9BD-AE0A7B202C93/f:FormRegistration.cs" caret="478" fromTop="9" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/f:RegistrationPresenterTest.cs" caret="504" fromTop="16" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/d:Mocks/f:RegistrartionViewMock.cs" caret="326" fromTop="14" />
+      <File id="A0C4099C-51D7-41E3-A627-DEBF067C5D4F/d:Domain/f:Attendee.cs" caret="193" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/d:Mocks/f:RegistrartionViewMock.cs" caret="136" fromTop="6" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/d:Mocks/f:RegistrartionViewMock.cs" caret="1014" fromTop="46" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/d:Mocks/f:RegistrartionViewMock.cs" caret="716" fromTop="30" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/d:Mocks/f:RegistrartionViewMock.cs" caret="328" fromTop="14" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/f:RegistrationPresenterTest.cs" caret="350" fromTop="19" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/f:RegistrationPresenterTest.cs" caret="747" fromTop="35" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/f:RegistrationPresenterTest.cs" caret="362" fromTop="19" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/f:RegistrationPresenterTest.cs" caret="0" fromTop="0" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/f:RegistrationPresenterTest.cs" caret="834" fromTop="31" />
+      <File id="8D52275A-F019-4F5B-A23A-34EB8D0070AB/f:RegisterView.aspx.cs" caret="412" fromTop="8" />
+      <File id="A0C4099C-51D7-41E3-A627-DEBF067C5D4F/d:Domain/f:Attendee.cs" caret="231" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="view" priority="2" />
+      <Item value="Assert`0" priority="0" />
+      <Item value="presenter" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="string" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestProject.Mocks.RegistrartionViewMock">
+      <Item value="FirstName" priority="0" />
+      <Item value="LastName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

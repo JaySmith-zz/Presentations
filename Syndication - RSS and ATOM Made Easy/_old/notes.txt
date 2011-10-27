@@ -1,0 +1,34 @@
+Syndication
+
+- Syndication is more than news and blogs
+	+ Representation of any set of data
+	+ Usually slow changing
+	
+- Unified object model for RSS and ATOM
+	A generic approach to consuming and generating feeds
+	+ SyndicationFeed / SyndicationItem
+	+ Extensible Formatters
+
+- Feeds are service operations
+- Consume a service or as document
+
+--
+
+- Single stop for syndications
+	+ create and consume with or without WCF
+	
+- Easy to use object model
+- Transport Agnostic
+- Support Syndication Extensions
+- Format Agnostic
+	+ RSS 2.0 and ATOM 1.0 avaialable, others possible
+	
+"Works in ASP.NET Medium Trust!"
+
+Microsoft WCF Community Site http://wcf.netfx3.com
+Justin Smith's Blog http://blogs.msdn.com/justinjsmith/
+Steve Main's Blog http://hyberthink.net/blog
+Getting Started with WCF http://social.msdn.microsoft.com/content/en-us/msft/netframework/wcf/GettingStarted
+
+From Rob Windsor presentation on REST, JSON and RSS with WCF 3.5
+http://www.slideshare.net/rob.windsor/rest-json-and-rss-with-wcf-35-presentation

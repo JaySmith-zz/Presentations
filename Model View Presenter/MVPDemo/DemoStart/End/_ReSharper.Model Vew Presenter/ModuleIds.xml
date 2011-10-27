@@ -1,0 +1,10 @@
+<Modules>
+  <Module PersistentId="CF4F887A-507D-403B-9310-655B2252B308" ModuleId="Attendee.Web" />
+  <Module PersistentId="15F90F07-8728-45F4-86A4-04074EA101F5" ModuleId="Attendee.PresentationLayer" />
+  <Module PersistentId="FD86598D-9B50-4564-9462-837D6D613337" ModuleId="Attendee.Windows_End" />
+  <Module PersistentId="E52EC31E-1015-461A-9036-B821E5191CCF" ModuleId="Attendee.BusinessLayer" />
+  <Module PersistentId="41C57215-3B53-4206-818D-52A916843712" ModuleId="Attendee.Test" />
+  <Module PersistentId="8D52275A-F019-4F5B-A23A-34EB8D0070AB" ModuleId="WebApp" />
+  <Module PersistentId="A0C4099C-51D7-41E3-A627-DEBF067C5D4F" ModuleId="Core" />
+  <Module PersistentId="B5D845A9-0017-44E0-A9BD-AE0A7B202C93" ModuleId="WinApp" />
+</Modules>

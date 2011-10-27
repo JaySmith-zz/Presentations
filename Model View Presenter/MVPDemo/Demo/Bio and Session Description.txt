@@ -1,0 +1,4 @@
+Jay Smith is a PMO Architect and Evangelist for Tyson Foods, Inc. in Springdale, AR.  He is responsible for the design and development of several applications that make up the Eneterprise Project Management tools for Tyson Foods.  Before joining Tyson Foods, Inc, Jay worked as a Windows Server Engineer at Wal-Mart Stores Inc. where he begun his development career with Visual Basic 3 creating reporting applications for the World's Largest Retailer.
+
+Model View Presenter:  You Gotta Keep It Seperated!
+In today's world of rapidly changing UI's it is very important to isolate our business logic into a seperate layer to avoid having to re-write it every time the UI technology changes.  In this session I will cover some ways to extract you cbusiness logic from the UI layer and encapsulate it in the Presenation layer making upgrading the UI clean and straight forward. 

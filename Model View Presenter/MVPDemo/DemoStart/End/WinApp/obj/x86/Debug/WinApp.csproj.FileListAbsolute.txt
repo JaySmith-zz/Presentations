@@ -1,0 +1,11 @@
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WinApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WinApp\obj\x86\Debug\WinApp.FormRegistration.resources
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WinApp\obj\x86\Debug\WinApp.Properties.Resources.resources
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WinApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WinApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WinApp\bin\Debug\WinApp.exe
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WinApp\bin\Debug\WinApp.pdb
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WinApp\bin\Debug\Core.dll
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WinApp\bin\Debug\Core.pdb
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WinApp\obj\x86\Debug\WinApp.exe
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\WinApp\obj\x86\Debug\WinApp.pdb

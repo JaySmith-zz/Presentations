@@ -7,14 +7,8 @@
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles>
-      <File id="27EA0519-B189-47FD-835C-27250C31F1F3/d:Controllers/f:HomeController.cs" caret="442" fromTop="21" />
-      <File id="27EA0519-B189-47FD-835C-27250C31F1F3/d:Controllers/f:AccountController.cs" caret="494" fromTop="17" />
-      <File id="27EA0519-B189-47FD-835C-27250C31F1F3/f:Web.config" caret="398" fromTop="8" />
-    </RecentFiles>
-    <RecentEdits>
-      <File id="27EA0519-B189-47FD-835C-27250C31F1F3/f:Web.config" caret="4024" fromTop="24" />
-    </RecentEdits>
+    <RecentFiles />
+    <RecentEdits />
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -23,8 +17,7 @@
     <Providers />
   </UnitTestRunner>
   <UnitTestRunnerNUnit>
-    <NUnitInstallDir IsNull="False">
-    </NUnitInstallDir>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
 </Configuration>

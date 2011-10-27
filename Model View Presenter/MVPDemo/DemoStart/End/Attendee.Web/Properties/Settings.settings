@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VBS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DB_Instance" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">VBSLocal</Value>
+    </Setting>
+    <Setting Name="Year" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2007</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

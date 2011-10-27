@@ -1,0 +1,22 @@
+Introduction
+Agenda
+
+The Corporate Development Environment
+	
+
+Deployment Challenges
+	Today's corporate deployment: local, development, Q/A and Testing, to Production
+	maintaining different applications settings for all environments
+	
+
+Deployment Strategy 1
+	Maintain seperate web.config files, 1 for each environment
+
+Deployment strategy 2
+	keep all the settings in the same config file and run a string replacement at build time.
+	using cmd files to set the corret environment
+
+Deployment strategy 3
+	web config transformations
+
+The future with VS2010

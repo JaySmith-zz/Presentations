@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B2A8B393-D5A2-42D3-862C-7F1EC7E519FE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_build</RootNamespace>
+    <AssemblyName>_build</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shared Libraries\nUnit\clr.bat" />
+    <None Include="Shared Libraries\nUnit\nunit-console-x86.exe.config" />
+    <None Include="Shared Libraries\nUnit\nunit-console.exe.config" />
+    <None Include="Shared Libraries\nUnit\nunit-x86.exe.config" />
+    <None Include="Shared Libraries\nUnit\nunit.exe.config" />
+    <None Include="Shared Libraries\nUnit\NUnitTests.config" />
+    <None Include="Shared Libraries\nUnit\NUnitTests.nunit" />
+    <None Include="Shared Libraries\nUnit\runFile.exe.config" />
+    <None Include="Shared Libraries\Rhino.Mocks\Rhino-Mocks-net-3.5-v3.5-unmerged.zip" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Shared Libraries\nUnit\Failure.jpg" />
+    <Content Include="Shared Libraries\nUnit\fit.dll" />
+    <Content Include="Shared Libraries\nUnit\Ignored.jpg" />
+    <Content Include="Shared Libraries\nUnit\loadtest-assembly.dll" />
+    <Content Include="Shared Libraries\nUnit\mock-assembly.dll" />
+    <Content Include="Shared Libraries\nUnit\nonamespace-assembly.dll" />
+    <Content Include="Shared Libraries\nUnit\notestfixtures-assembly.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit-console-runner.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit-console-x86.exe" />
+    <Content Include="Shared Libraries\nUnit\nunit-console.exe" />
+    <Content Include="Shared Libraries\nUnit\nunit-console.tests.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit-gui-runner.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit-gui.tests.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit-x86.exe" />
+    <Content Include="Shared Libraries\nUnit\nunit.core.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit.core.extensions.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit.core.interfaces.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit.core.tests.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit.exe" />
+    <Content Include="Shared Libraries\nUnit\nunit.extensions.tests.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit.fixtures.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit.fixtures.tests.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit.framework.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit.framework.extensions.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit.framework.tests.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit.framework.xml" />
+    <Content Include="Shared Libraries\nUnit\nunit.mocks.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit.mocks.tests.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit.uikit.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit.uikit.tests.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit.util.dll" />
+    <Content Include="Shared Libraries\nUnit\nunit.util.tests.dll" />
+    <Content Include="Shared Libraries\nUnit\NUnitFitTests.html" />
+    <Content Include="Shared Libraries\nUnit\runFile.exe" />
+    <Content Include="Shared Libraries\nUnit\Success.jpg" />
+    <Content Include="Shared Libraries\nUnit\test-assembly.dll" />
+    <Content Include="Shared Libraries\nUnit\test-utilities.dll" />
+    <Content Include="Shared Libraries\nUnit\timing-tests.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

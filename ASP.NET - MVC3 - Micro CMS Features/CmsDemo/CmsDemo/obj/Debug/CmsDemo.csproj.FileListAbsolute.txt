@@ -1,0 +1,5 @@
+C:\Solutions\Presentations\ASPNET MVC CMS\CmsDemo\CmsDemo\bin\CmsDemo.dll
+C:\Solutions\Presentations\ASPNET MVC CMS\CmsDemo\CmsDemo\bin\CmsDemo.pdb
+C:\Solutions\Presentations\ASPNET MVC CMS\CmsDemo\CmsDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Solutions\Presentations\ASPNET MVC CMS\CmsDemo\CmsDemo\obj\Debug\CmsDemo.dll
+C:\Solutions\Presentations\ASPNET MVC CMS\CmsDemo\CmsDemo\obj\Debug\CmsDemo.pdb

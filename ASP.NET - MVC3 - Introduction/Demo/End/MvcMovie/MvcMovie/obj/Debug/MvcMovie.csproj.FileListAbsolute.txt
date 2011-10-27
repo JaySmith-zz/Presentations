@@ -1,0 +1,5 @@
+C:\Solutions\Presentations\Intro ASPNET MV3\Demo\End\MvcMovie\MvcMovie\bin\MvcMovie.dll
+C:\Solutions\Presentations\Intro ASPNET MV3\Demo\End\MvcMovie\MvcMovie\bin\MvcMovie.pdb
+C:\Solutions\Presentations\Intro ASPNET MV3\Demo\End\MvcMovie\MvcMovie\obj\Debug\ResolveAssemblyReference.cache
+C:\Solutions\Presentations\Intro ASPNET MV3\Demo\End\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
+C:\Solutions\Presentations\Intro ASPNET MV3\Demo\End\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb

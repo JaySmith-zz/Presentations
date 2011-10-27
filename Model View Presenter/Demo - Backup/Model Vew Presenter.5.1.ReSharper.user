@@ -1,0 +1,38 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/d:Mocks/f:RegistrartionViewMock.cs" caret="116" fromTop="6" />
+      <File id="d:Miscellaneous Files/f:Class1.cs/l:C!?Solutions?Presentations?Model View Presenter?MVPDemo?DemoStart?End?Attendee.Test?Class1.cs" caret="2138" fromTop="42" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/f:RegistrationPresenterTest.cs" caret="269" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="d:Miscellaneous Files/f:Class1.cs/l:C!?Solutions?Presentations?Model View Presenter?MVPDemo?DemoStart?End?Attendee.Test?Class1.cs" caret="0" fromTop="0" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/d:Mocks/f:RegistrartionViewMock.cs" caret="136" fromTop="6" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/d:Mocks/f:RegistrartionViewMock.cs" caret="1014" fromTop="46" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/d:Mocks/f:RegistrartionViewMock.cs" caret="716" fromTop="30" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/d:Mocks/f:RegistrartionViewMock.cs" caret="328" fromTop="14" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/f:RegistrationPresenterTest.cs" caret="350" fromTop="19" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/f:RegistrationPresenterTest.cs" caret="747" fromTop="35" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/f:RegistrationPresenterTest.cs" caret="671" fromTop="30" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/f:RegistrationPresenterTest.cs" caret="362" fromTop="19" />
+      <File id="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C/f:RegistrationPresenterTest.cs" caret="0" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

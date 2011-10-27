@@ -6,9 +6,7 @@ C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\CSContosoU
 C:\Solutions\Presentations\Introduction to Nuget Package Manager\Demo\CSContosoUniversityV2\ContosoUniversity\bin\Elmah.dll
 C:\Solutions\Presentations\Nuget - An Introduction\Demo\CSContosoUniversityV2\ContosoUniversity\bin\ContosoUniversity.dll
 C:\Solutions\Presentations\Nuget - An Introduction\Demo\CSContosoUniversityV2\ContosoUniversity\bin\ContosoUniversity.pdb
-C:\Solutions\Presentations\Nuget - An Introduction\Demo\CSContosoUniversityV2\ContosoUniversity\bin\Elmah.dll
 C:\Solutions\Presentations\Nuget - An Introduction\Demo\CSContosoUniversityV2\ContosoUniversity\obj\Debug\ResolveAssemblyReference.cache
 C:\Solutions\Presentations\Nuget - An Introduction\Demo\CSContosoUniversityV2\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 C:\Solutions\Presentations\Nuget - An Introduction\Demo\CSContosoUniversityV2\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
-C:\Solutions\Presentations\Nuget - An Introduction\Demo\CSContosoUniversityV2\ContosoUniversity\bin\NLog.dll
-C:\Solutions\Presentations\Nuget - An Introduction\Demo\CSContosoUniversityV2\ContosoUniversity\bin\NLog.xml
+C:\Solutions\Presentations\Nuget - An Introduction\Demo\CSContosoUniversityV2\ContosoUniversity\bin\Elmah.dll

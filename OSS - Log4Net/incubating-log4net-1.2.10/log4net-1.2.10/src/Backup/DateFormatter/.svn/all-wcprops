@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/DateFormatter
+END
+Iso8601DateFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/DateFormatter/Iso8601DateFormatter.cs
+END
+SimpleDateFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/DateFormatter/SimpleDateFormatter.cs
+END
+DateTimeDateFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/DateFormatter/DateTimeDateFormatter.cs
+END
+AbsoluteTimeDateFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/DateFormatter/AbsoluteTimeDateFormatter.cs
+END
+IDateFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/DateFormatter/IDateFormatter.cs
+END

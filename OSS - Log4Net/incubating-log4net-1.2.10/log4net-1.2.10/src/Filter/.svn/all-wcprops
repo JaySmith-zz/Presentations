@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Filter
+END
+DenyAllFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Filter/DenyAllFilter.cs
+END
+IFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Filter/IFilter.cs
+END
+LoggerMatchFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Filter/LoggerMatchFilter.cs
+END
+FilterDecision.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Filter/FilterDecision.cs
+END
+MdcFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Filter/MdcFilter.cs
+END
+StringMatchFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Filter/StringMatchFilter.cs
+END
+FilterSkeleton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Filter/FilterSkeleton.cs
+END
+LevelMatchFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Filter/LevelMatchFilter.cs
+END
+LevelRangeFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Filter/LevelRangeFilter.cs
+END
+NdcFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Filter/NdcFilter.cs
+END
+PropertyFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Filter/PropertyFilter.cs
+END

@@ -1,0 +1,9 @@
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\MVPDemo\Demo\End\Attendee.Web\bin\Attendee.Web_CS.dll
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\MVPDemo\Demo\End\Attendee.Web\bin\Attendee.Web_CS.pdb
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\MVPDemo\Demo\End\Attendee.Web\bin\Attendee.PresentationLayer_CS.dll
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\MVPDemo\Demo\End\Attendee.Web\bin\Attendee.BusinessLayer_CS.dll
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\MVPDemo\Demo\End\Attendee.Web\bin\Attendee.BusinessLayer_CS.pdb
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\MVPDemo\Demo\End\Attendee.Web\bin\Attendee.PresentationLayer_CS.pdb
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\MVPDemo\Demo\End\Attendee.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\MVPDemo\Demo\End\Attendee.Web\obj\Debug\Attendee.Web_CS.dll
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\MVPDemo\Demo\End\Attendee.Web\obj\Debug\Attendee.Web_CS.pdb

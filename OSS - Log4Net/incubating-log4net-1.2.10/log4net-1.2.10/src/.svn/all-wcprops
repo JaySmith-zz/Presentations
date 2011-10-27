@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src
+END
+LogManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/LogManager.cs
+END
+ThreadContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/ThreadContext.cs
+END
+AssemblyVersionInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/AssemblyVersionInfo.cpp
+END
+UpgradeLog.XML
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/UpgradeLog.XML
+END
+ILog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/ILog.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/AssemblyInfo.cs
+END
+AssemblyVersionInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/AssemblyVersionInfo.cs
+END
+log4net.sln
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/log4net.sln
+END
+MDC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/MDC.cs
+END
+AssemblyVersionInfo.vb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/AssemblyVersionInfo.vb
+END
+NDC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/NDC.cs
+END
+GlobalContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/GlobalContext.cs
+END
+log4net.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/log4net.xml
+END
+log4net.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/log4net.csproj
+END
+LogicalThreadContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/LogicalThreadContext.cs
+END
+AssemblyVersionInfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/AssemblyVersionInfo.js
+END

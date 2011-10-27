@@ -1,0 +1,190 @@
+<Configuration>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:Web.config" caret="8193" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:EditPost.aspx.cs" caret="556" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:ViewPost.aspx.cs" caret="588" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:Properties/f:Settings.Designer.cs" caret="0" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:IPostRepository.cs" caret="72" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:__RESHARPER__DummyWebPages_/f:site.css" caret="0" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:PostRepository.cs" caret="222" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:__RESHARPER__DummyWebPages_/f:Default.aspx" caret="158" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:__RESHARPER__DummyWebPages_/f:site.master" caret="1500" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:__RESHARPER__DummyWebPages_/f:DisplayExternalFeed.aspx" caret="1122" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:Default.aspx.cs" caret="230" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:DisplayExternalFeed.aspx.cs" caret="203" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:FeedHandler.ashx.cs" caret="0" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="0" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:PostRepository.cs" caret="2197" scrollPosition="0|11" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:PostRepository.cs" caret="2197" scrollPosition="0|3" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:ViewPost.aspx.cs" caret="471" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:EditPost.aspx.cs" caret="556" scrollPosition="0|1" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:PostRepository.cs" caret="70" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:PostRepository.cs" caret="1462" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:PostRepository.cs" caret="672" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:PostRepository.cs" caret="519" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:PostRepository.cs" caret="1604" scrollPosition="0|24" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:PostRepository.cs" caret="1890" scrollPosition="0|25" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:PostRepository.cs" caret="2070" scrollPosition="0|25" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:IPostRepository.cs" caret="73" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="1201" scrollPosition="0|11" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="211" scrollPosition="0|6" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:FeedHandler.ashx.cs" caret="0" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:FeedHandler.ashx.cs" caret="1023" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:FeedHandler.ashx.cs" caret="545" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="848" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:SyndicationService.cs" caret="1634" scrollPosition="0|10" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:PostRepository.cs" caret="1287" scrollPosition="0|4" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:DataAccess/f:PostRepository.cs" caret="222" scrollPosition="0|4" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:__RESHARPER__DummyWebPages_/f:Default.aspx" caret="0" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:DisplayExternalFeed.aspx.cs" caret="0" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:__RESHARPER__DummyWebPages_/f:DisplayExternalFeed.aspx" caret="334" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:__RESHARPER__DummyWebPages_/f:DisplayExternalFeed.aspx" caret="744" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:__RESHARPER__DummyWebPages_/f:DisplayExternalFeed.aspx" caret="1227" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:__RESHARPER__DummyWebPages_/f:DisplayExternalFeed.aspx" caret="1121" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:DisplayExternalFeed.aspx.cs" caret="728" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/f:DisplayExternalFeed.aspx.cs" caret="581" scrollPosition="0|0" />
+      <File id="3860C40A-6EEB-4F6B-B7BB-0B9220676162/d:__RESHARPER__DummyWebPages_/f:site.master" caret="1500" scrollPosition="0|22" />
+    </RecentEdits>
+  </RecentFiles>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+      <setting name="UseSolutionBuilder">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="3" />
+      <Item value="post" priority="15" />
+      <Item value="var" priority="11" />
+      <Item value="new" priority="7" />
+      <Item value="Post" priority="3" />
+      <Item value="item" priority="8" />
+      <Item value="int" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="posts" priority="3" />
+      <Item value="PostRepository" priority="1" />
+      <Item value="from" priority="1" />
+      <Item value="where" priority="1" />
+      <Item value="p" priority="1" />
+      <Item value="select" priority="1" />
+      <Item value="Single" priority="0" />
+      <Item value="xmlDoc" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="_data" priority="0" />
+      <Item value="dataStore" priority="0" />
+      <Item value="postData" priority="0" />
+      <Item value="Session" priority="0" />
+      <Item value="IList" priority="0" />
+      <Item value="List&lt;Post&gt;" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="i" priority="0" />
+      <Item value="DateTime" priority="0" />
+      <Item value="Properties" priority="1" />
+      <Item value="Settings" priority="1" />
+      <Item value="else" priority="1" />
+      <Item value="Authors" priority="0" />
+      <Item value="SyndicationPerson" priority="1" />
+      <Item value="Author" priority="1" />
+      <Item value="author" priority="0" />
+      <Item value="listViewPosts" priority="1" />
+      <Item value="feed" priority="3" />
+      <Item value="SyndicationItem" priority="0" />
+      <Item value="TextSyndicationContent" priority="0" />
+      <Item value="Eval" priority="0" />
+      <Item value="f" priority="1" />
+      <Item value="throw" priority="0" />
+      <Item value="ApplicationException" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlogDemo.Web.Post">
+      <Item value="PostID" priority="2" />
+      <Item value="PostContent" priority="0" />
+      <Item value="PostDate" priority="0" />
+      <Item value="Author" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XElement">
+      <Item value="Element" priority="3" />
+      <Item value="Value" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BlogDemo.Web.DataAccess.PostRepository">
+      <Item value="GetAllPosts" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Single" priority="0" />
+      <Item value="Take" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlogDemo.Web.Domain.Post">
+      <Item value="AuthorEmail" priority="0" />
+      <Item value="PostId" priority="0" />
+      <Item value="PostContent" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="PostDate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XDocument">
+      <Item value="Remove" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlogDemo.Web.Author">
+      <Item value="Name" priority="4" />
+      <Item value="Email" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BlogDemo.Web.Properties.Settings">
+      <Item value="Default" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlogDemo.Web.Properties.Settings">
+      <Item value="UseDb" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.Syndication.SyndicationItem">
+      <Item value="Authors" priority="1" />
+      <Item value="Id" priority="0" />
+      <Item value="PublishDate" priority="0" />
+      <Item value="Content" priority="4" />
+      <Item value="Categories" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.Collection`1">
+      <Item value="Add" priority="1" />
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListView">
+      <Item value="DataSource" priority="0" />
+      <Item value="DataBind" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.Syndication.SyndicationFeed">
+      <Item value="Items" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.Syndication.SyndicationContent">
+      <Item value="ToString" priority="1" />
+      <Item value="WriteTo" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

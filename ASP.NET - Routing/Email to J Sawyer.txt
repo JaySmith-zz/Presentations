@@ -1,0 +1,13 @@
+Email to J Sawyer
+
+Hey J,
+
+One of the things we talked about at the MVP Summit was a presentation I am trying to work on for URL Routing.  We discussed the fact the the .NET 3.5 training kit was missing the demo to do along with the slides.  You said you had some resources, ie demo script, etc. that could help me finish up my presentation.
+
+Is that offer still open?
+
+I am planning on submitting to present on this topic at the School of Dev in Tulsa on March 28.  
+
+Thanks,
+
+Jay Smith

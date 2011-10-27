@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformationDemo", "TransformationDemo\TransformationDemo.csproj", "{E3B13905-F3B8-4796-9865-E40E40B27871}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1D253B6E-698D-44C0-988C-DB6F51E55633}"
+	ProjectSection(SolutionItems) = preProject
+		Script.txt = Script.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SSPSOzarks|Any CPU = SSPSOzarks|Any CPU
+		Stage|Any CPU = Stage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3B13905-F3B8-4796-9865-E40E40B27871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B13905-F3B8-4796-9865-E40E40B27871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B13905-F3B8-4796-9865-E40E40B27871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B13905-F3B8-4796-9865-E40E40B27871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B13905-F3B8-4796-9865-E40E40B27871}.SSPSOzarks|Any CPU.ActiveCfg = SSPSOzarks|Any CPU
+		{E3B13905-F3B8-4796-9865-E40E40B27871}.SSPSOzarks|Any CPU.Build.0 = SSPSOzarks|Any CPU
+		{E3B13905-F3B8-4796-9865-E40E40B27871}.Stage|Any CPU.ActiveCfg = Stage|Any CPU
+		{E3B13905-F3B8-4796-9865-E40E40B27871}.Stage|Any CPU.Build.0 = Stage|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

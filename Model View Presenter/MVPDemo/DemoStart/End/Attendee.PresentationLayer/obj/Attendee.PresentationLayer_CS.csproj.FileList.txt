@@ -1,0 +1,5 @@
+bin\Debug\Attendee.PresentationLayer_CS.dll
+bin\Debug\Attendee.PresentationLayer_CS.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Attendee.PresentationLayer_CS.dll
+obj\Debug\Attendee.PresentationLayer_CS.pdb

@@ -1,0 +1,9 @@
+Creating S.O.L.I.D. Applications: Part 1 - Single Responsibility
+This series of sessions will go over several core Object Oriented Principles.  In this session we will look at the Single Responsibility Principle, how to detect if we have broken it and some ways to modify our code to get to single responsibility.
+
+FYI: The Principles in S.O.L.I.D are:
+                The Single Responsibility Principle
+                The Open-Close Principle
+                The Liskov Substitution Principle
+                The Interface Segregation Principle
+                The Dependency Inversion Principle

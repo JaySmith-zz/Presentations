@@ -1,0 +1,27 @@
+Real Symple Discovery
+
+Add to Head of Master Page
+ <%= Html.Link("application/rsd+xml", "RSD", HttpContext.Current.Request.Url.Authority + VirtualPathUtility.ToAbsolute("~/") + "rsd.axd") %>
+ 
+Web.config HTTP Handlers
+ <httpHandlers>
+	<add verb="*" path="rsd.axd" type="EventServer.Core.HttpHandlers.RsdHandler, EventServer.Core, Version=1.0.*, Culture=neutral" validate="false" />
+	<add verb="*" path="metaweblog.axd" type="EventServer.Core.HttpHandlers.MetaWeblogHandler, EventServer.Core" validate="false" />
+	
+	<add verb="*" path="file.axd" type="EventServer.Core.HttpHandlers.FileHandler, EventServer.Core" validate="false"/>
+	<add verb="*" path="image.axd" type="EventServer.Core.HttpHandlers.ImageHandler, EventServer.Core" validate="false" />
+
+	<add verb="*" path="syndication.axd" type="EventServer.Core.HttpHandlers.SyndicationHandler, EventServer.Core, Version=1.0.*, Culture=neutral" validate="false" />
+</httpHandlers>
+
+<system.webServer>
+	<handlers>
+		<add name="rsd" verb="*" path="rsd.axd" type="EventServer.Core.HttpHandlers.RsdHandler, EventServer.Core, Version=1.0.*, Culture=neutral" resourceType="Unspecified" requireAccess="Script" preCondition="integratedMode" />
+		<add name="MetaWeblog" verb="*" path="metaweblog.axd" type="EventServer.Core.HttpHandlers.MetaWeblogHandler, EventServer.Core" resourceType="Unspecified" requireAccess="Script" preCondition="integratedMode" />
+		
+		<add name="FileHandler" verb="*" path="file.axd" type="EventServer.Core.HttpHandlers.FileHandler, EventServer.Core" resourceType="Unspecified" requireAccess="Script" preCondition="integratedMode"/>
+		<add name="ImageHandler" verb="*" path="image.axd" type="EventServer.Core.HttpHandlers.ImageHandler, EventServer.Core" resourceType="Unspecified" requireAccess="Script" preCondition="integratedMode"/>
+		
+		<add name="Syndication" verb="*" path="syndication.axd" type="EventServer.Core.HttpHandlers.SyndicationHandler, EventServer.Core, Version=1.0.*, Culture=neutral" resourceType="Unspecified" requireAccess="Script" preCondition="integratedMode" />
+    </handlers>
+</system.webServer>

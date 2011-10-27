@@ -1,0 +1,8 @@
+1. Add reference to Attendee.PresentationLayer_CS
+
+2. Add using statement to FormRegistration
+
+3. Implement IRegistrationView on form
+		
+4. Create instance of Presenter
+	

@@ -1,0 +1,15 @@
+Create web project
+
+Add Settings via properties
+
+Add RunEnvironment as string with value of Local
+
+Create Transormation for Debug and Release
+
+Add Deployment for Local and Test
+
+Add some more settings
+
+Create a few deployment points under IIS: dev, test, production
+
+deploy each and demonstrate that they settings changed.

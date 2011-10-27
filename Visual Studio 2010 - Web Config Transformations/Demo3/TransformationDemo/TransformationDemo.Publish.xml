@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="c:\temp\Demo3" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="False" msdeploySite="C:\Temp\Demo" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/TransformationDemo.dll" publishTime="06/12/2010 15:08:51" />
+    <file relUrl="Web.config" publishTime="06/12/2010 15:09:02" />
+    <file relUrl="Default.aspx" publishTime="10/06/2009 07:29:28" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,32 @@
+Simple CMS Functionality in ASP MVC
+
+I have always wanted to be able to add CMS type functionality to my applications to make it easier to maintain static content.  In this session I will show you how I am implementing Page Editing functionality in an ASP MVC application using the TinyMce WYSIWYG editor using an generic repository with Entity Framework. 
+
+
+Modify the default membership and role provider to use Email as the log on
+	Set up the database
+	Modify the Account Model
+	Modify the Account Controller
+	Modify the Account Views
+	Create an Admin Role
+	Create a Admin User
+	Create a non Admin User
+
+Entity Frame work Generic Repository
+	Create the Entity Framework Context
+	Create/Go Over the Generic Repository
+	
+WSIWYG Page Editing - TinyMce and Page Controller
+	Create the PageController
+		Edit Action
+	Create the Edit Page View
+	Add Edit Action Post Action
+
+MetaWebLog Live Writer support
+	LiveWritter Manifest file
+	Real Simple Syndication
+	MetaWebLog API
+	XmlRpc Request and Response
+	FileHandler
+	ImageHandler
+	

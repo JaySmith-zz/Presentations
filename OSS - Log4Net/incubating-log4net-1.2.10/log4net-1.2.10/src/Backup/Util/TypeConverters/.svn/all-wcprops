@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/TypeConverters
+END
+ConversionNotSupportedException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/TypeConverters/ConversionNotSupportedException.cs
+END
+IConvertTo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/TypeConverters/IConvertTo.cs
+END
+PatternStringConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/TypeConverters/PatternStringConverter.cs
+END
+IConvertFrom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/TypeConverters/IConvertFrom.cs
+END
+TypeConverterAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/TypeConverters/TypeConverterAttribute.cs
+END
+EncodingConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/TypeConverters/EncodingConverter.cs
+END
+ConverterRegistry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/TypeConverters/ConverterRegistry.cs
+END
+PatternLayoutConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/TypeConverters/PatternLayoutConverter.cs
+END
+IPAddressConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/TypeConverters/IPAddressConverter.cs
+END
+BooleanConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/TypeConverters/BooleanConverter.cs
+END
+TypeConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/TypeConverters/TypeConverter.cs
+END

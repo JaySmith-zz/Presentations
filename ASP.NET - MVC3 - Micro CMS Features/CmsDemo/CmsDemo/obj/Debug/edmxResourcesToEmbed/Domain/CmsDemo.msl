@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="urn:schemas-microsoft-com:windows:storage:mapping:CS">
+  <EntityContainerMapping StorageEntityContainer="CmsDemoModelStoreContainer" CdmEntityContainer="CmsDemoEntities">
+    <EntitySetMapping Name="Pages">
+      <EntityTypeMapping TypeName="CmsDemoModel.Page">
+        <MappingFragment StoreEntitySet="Page">
+          <ScalarProperty Name="PageId" ColumnName="PageId" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Content" ColumnName="Content" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PageContents">
+      <EntityTypeMapping TypeName="CmsDemoModel.PageContent">
+        <MappingFragment StoreEntitySet="PageContent">
+          <ScalarProperty Name="Content" ColumnName="Content" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

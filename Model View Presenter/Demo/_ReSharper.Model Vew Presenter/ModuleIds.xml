@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="8FB8B3E8-31C0-486A-86F6-8133F61BDF3C" ModuleId="TestProject" />
+  <Module PersistentId="A0C4099C-51D7-41E3-A627-DEBF067C5D4F" ModuleId="Core" />
+  <Module PersistentId="8D52275A-F019-4F5B-A23A-34EB8D0070AB" ModuleId="WebApp" />
+  <Module PersistentId="B5D845A9-0017-44E0-A9BD-AE0A7B202C93" ModuleId="WinApp" />
+</Modules>

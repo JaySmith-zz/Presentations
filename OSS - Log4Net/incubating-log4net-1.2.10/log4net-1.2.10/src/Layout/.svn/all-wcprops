@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Layout
+END
+PatternLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Layout/PatternLayout.cs
+END
+RawTimeStampLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Layout/RawTimeStampLayout.cs
+END
+ExceptionLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Layout/ExceptionLayout.cs
+END
+RawPropertyLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Layout/RawPropertyLayout.cs
+END
+XMLLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Layout/XMLLayout.cs
+END
+RawLayoutConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Layout/RawLayoutConverter.cs
+END
+XmlLayoutSchemaLog4j.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Layout/XmlLayoutSchemaLog4j.cs
+END
+IRawLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Layout/IRawLayout.cs
+END
+LayoutSkeleton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Layout/LayoutSkeleton.cs
+END
+ILayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Layout/ILayout.cs
+END
+RawUtcTimeStampLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Layout/RawUtcTimeStampLayout.cs
+END
+SimpleLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Layout/SimpleLayout.cs
+END
+Layout2RawLayoutAdapter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Layout/Layout2RawLayoutAdapter.cs
+END
+XMLLayoutBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Layout/XMLLayoutBase.cs
+END

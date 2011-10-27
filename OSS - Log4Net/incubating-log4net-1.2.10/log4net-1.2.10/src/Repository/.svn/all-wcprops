@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Repository
+END
+IXmlRepositoryConfigurator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Repository/IXmlRepositoryConfigurator.cs
+END
+IBasicRepositoryConfigurator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Repository/IBasicRepositoryConfigurator.cs
+END
+LoggerRepositorySkeleton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Repository/LoggerRepositorySkeleton.cs
+END
+ILoggerRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Repository/ILoggerRepository.cs
+END

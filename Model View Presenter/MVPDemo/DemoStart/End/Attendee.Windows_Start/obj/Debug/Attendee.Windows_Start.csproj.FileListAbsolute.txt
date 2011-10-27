@@ -1,0 +1,9 @@
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_Start\bin\Debug\Attendee.Windows_CS.exe
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_Start\bin\Debug\Attendee.Windows_CS.pdb
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_Start\obj\Debug\ResolveAssemblyReference.cache
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_Start\obj\Debug\Attendee.Windows_CS.FormRegistration.resources
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_Start\obj\Debug\Attendee.Windows_CS.Properties.Resources.resources
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_Start\obj\Debug\ResGen.read.1.tlog
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_Start\obj\Debug\ResGen.write.1.tlog
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_Start\obj\Debug\Attendee.Windows_CS.exe
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.Windows_Start\obj\Debug\Attendee.Windows_CS.pdb

@@ -1,0 +1,5 @@
+D:\Presentations\SyndicationDemo\Demo\Start_Project\_build\bin\Debug\_build.dll
+D:\Presentations\SyndicationDemo\Demo\Start_Project\_build\bin\Debug\_build.pdb
+D:\Presentations\SyndicationDemo\Demo\Start_Project\_build\obj\Debug\ResolveAssemblyReference.cache
+D:\Presentations\SyndicationDemo\Demo\Start_Project\_build\obj\Debug\_build.dll
+D:\Presentations\SyndicationDemo\Demo\Start_Project\_build\obj\Debug\_build.pdb

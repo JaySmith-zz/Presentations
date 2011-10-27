@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogDemo.Web", "BlogDemo.Web\BlogDemo.Web.csproj", "{3860C40A-6EEB-4F6B-B7BB-0B9220676162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_build", "_build\_build.csproj", "{B2A8B393-D5A2-42D3-862C-7F1EC7E519FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3860C40A-6EEB-4F6B-B7BB-0B9220676162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3860C40A-6EEB-4F6B-B7BB-0B9220676162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3860C40A-6EEB-4F6B-B7BB-0B9220676162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3860C40A-6EEB-4F6B-B7BB-0B9220676162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A8B393-D5A2-42D3-862C-7F1EC7E519FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A8B393-D5A2-42D3-862C-7F1EC7E519FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A8B393-D5A2-42D3-862C-7F1EC7E519FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A8B393-D5A2-42D3-862C-7F1EC7E519FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

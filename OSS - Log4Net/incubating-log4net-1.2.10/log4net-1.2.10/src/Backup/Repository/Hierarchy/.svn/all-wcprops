@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Repository/Hierarchy
+END
+DefaultLoggerFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Repository/Hierarchy/DefaultLoggerFactory.cs
+END
+Hierarchy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Repository/Hierarchy/Hierarchy.cs
+END
+ProvisionNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Repository/Hierarchy/ProvisionNode.cs
+END
+Logger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Repository/Hierarchy/Logger.cs
+END
+ILoggerFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Repository/Hierarchy/ILoggerFactory.cs
+END
+XmlHierarchyConfigurator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Repository/Hierarchy/XmlHierarchyConfigurator.cs
+END
+RootLogger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Repository/Hierarchy/RootLogger.cs
+END
+LoggerKey.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Repository/Hierarchy/LoggerKey.cs
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Backup/log4net.Ext.Trace
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Backup/log4net.Ext.Trace/AssemblyInfo.cs
+END
+TraceLogManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Backup/log4net.Ext.Trace/TraceLogManager.cs
+END
+AssemblyVersionInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Backup/log4net.Ext.Trace/AssemblyVersionInfo.cs
+END
+TraceLogImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Backup/log4net.Ext.Trace/TraceLogImpl.cs
+END
+log4net.Ext.Trace.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Backup/log4net.Ext.Trace/log4net.Ext.Trace.csproj
+END
+ITraceLog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Backup/log4net.Ext.Trace/ITraceLog.cs
+END

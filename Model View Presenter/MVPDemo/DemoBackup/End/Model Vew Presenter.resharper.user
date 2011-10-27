@@ -1,0 +1,44 @@
+<Configuration>
+  <CompletionStatisticsManager />
+  <EditorManager>
+    <RecentFiles>
+      <File id="FD86598D-9B50-4564-9462-837D6D613337/f:Script.txt" caret="177" scrollPosition="0|0" />
+      <File id="CF4F887A-507D-403B-9310-655B2252B308/f:RegistrationView.aspx.cs" caret="271" scrollPosition="0|0" />
+      <File id="15F90F07-8728-45F4-86A4-04074EA101F5/f:RegistrationPresenter.cs" caret="0" scrollPosition="0|0" />
+      <File id="E52EC31E-1015-461A-9036-B821E5191CCF/f:Attendee.cs" caret="134" scrollPosition="0|0" />
+    </RecentFiles>
+  </EditorManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <ReFormatCode>
+    <ReorderMembers>False</ReorderMembers>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+  </ReFormatCode>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <Providers />
+  </UnitTestRunner>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+</Configuration>

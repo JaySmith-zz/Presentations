@@ -1,0 +1,7 @@
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.PresentationLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.PresentationLayer\bin\Debug\Attendee.PresentationLayer.dll
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.PresentationLayer\bin\Debug\Attendee.PresentationLayer.pdb
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.PresentationLayer\obj\Debug\Attendee.PresentationLayer.dll
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.PresentationLayer\obj\Debug\Attendee.PresentationLayer.pdb
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.PresentationLayer\bin\Debug\Attendee.BusinessLayer.dll
+C:\Solutions\Presentations\Model View Presenter\MVPDemo\DemoStart\End\Attendee.PresentationLayer\bin\Debug\Attendee.BusinessLayer.pdb

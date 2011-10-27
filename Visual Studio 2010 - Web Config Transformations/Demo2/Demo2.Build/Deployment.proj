@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Deploy" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+  <PropertyGroup>
+    <Configuration>Release</Configuration>
+    <SolutionFileName>..\Demo2.sln</SolutionFileName>
+    <WebProjectDir>..\Demo2</WebProjectDir>
+    <WebProjectFileName>..\Demo2\Demo2.csproj</WebProjectFileName>
+    <DestinationDir>C:\temp\stage\Demo2</DestinationDir>
+    <TargetEnvironment>Production</TargetEnvironment>
+  </PropertyGroup>
+
+  <UsingTask
+      AssemblyFile="bin\$(Configuration)\Demo2.Build.dll"
+      TaskName="StringReplace" />
+
+
+  <Target Name="Deploy" DependsOnTargets="BuildSolution">
+
+    <Message Text=" " />
+    <Message Text=" " />
+    <Message Text="      Starting the deployment " />
+    <Message Text=" " />
+    <Message Text=" " />
+
+    <MSBuild
+       Projects="$(WebProjectFileName)"
+       Targets="ResolveReferences;_CopyWebApplication"
+       Properties="Configuration=$(Configuration);ReferenceCopyLocalPaths=$(DestinationDir);WebProjectOutputDir=$(DestinationDir);OutDir=$(DestinationDir)\bin\" />
+
+    <Message Text=" " />
+    <Message Text=" " />
+    <Message Text="      Finished deployment " />
+    <Message Text=" " />
+    <Message Text=" " />
+
+    <StringReplace
+       Filename="$(DestinationDir)\Web.config"
+       SearchValue="&lt;value&gt;Local&lt;/value&gt;"
+       ReplaceValue="&lt;value&gt;$(TargetEnvironment)&lt;/value&gt;" />
+
+    <Exec Command="explorer.exe $(DestinationDir)" IgnoreExitCode="true"/>
+
+  </Target>
+
+  <Target Name="BuildSolution">
+
+    <Message Text=" " />
+    <Message Text=" " />
+    <Message Text="      Building the solution " />
+    <Message Text=" " />
+    <Message Text=" " />
+
+    <MSBuild Projects="$(SolutionFileName)" Targets="clean;build" Properties="Configuration=$(Configuration)" />
+    <Exec Command="c:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_compiler -v / -p $(WebProjectDir)" />
+
+    <Message Text=" " />
+    <Message Text=" " />
+    <Message Text="      Finished building " />
+    <Message Text=" " />
+    <Message Text=" " />
+
+  </Target>
+
+</Project>

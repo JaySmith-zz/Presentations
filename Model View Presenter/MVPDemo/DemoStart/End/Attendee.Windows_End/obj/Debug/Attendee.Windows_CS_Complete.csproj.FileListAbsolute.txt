@@ -1,0 +1,34 @@
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS\obj\Debug\ResolveAssemblyReference.cache
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS\obj\Debug\Attendee.Windows_CS.FormRegistration.resources
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS\obj\Debug\Attendee.Windows_CS.Properties.Resources.resources
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS\obj\Debug\Attendee.Windows_CS_Complete.csproj.GenerateResource.Cache
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS\obj\Debug\Attendee.Windows_CS.exe
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS\bin\Debug\Attendee.Windows_CS.exe
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS\bin\Debug\Attendee.Windows_CS.pdb
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS\bin\Debug\Attendee.PresentationLayer_CS.dll
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS\bin\Debug\Attendee.PresentationLayer_CS.pdb
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS\obj\Debug\Attendee.Windows_CS.pdb
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\obj\Debug\ResolveAssemblyReference.cache
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\obj\Debug\Attendee.Windows_CS.FormRegistration.resources
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\obj\Debug\Attendee.Windows_CS.Properties.Resources.resources
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\obj\Debug\Attendee.Windows_CS_Complete.csproj.GenerateResource.Cache
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\obj\Debug\Attendee.Windows_CS.exe
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\obj\Debug\Attendee.Windows_CS.pdb
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\bin\Debug\Attendee.Windows_CS.exe
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\bin\Debug\Attendee.Windows_CS.pdb
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\bin\Debug\Attendee.PresentationLayer_CS.dll
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\bin\Debug\Attendee.BusinessLayer_CS.dll
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\bin\Debug\Attendee.BusinessLayer_CS.pdb
+B:\Documents\Presentations\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\bin\Debug\Attendee.PresentationLayer_CS.pdb
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\bin\Debug\Attendee.Windows_CS.exe
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\bin\Debug\Attendee.Windows_CS.pdb
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\bin\Debug\Attendee.PresentationLayer_CS.dll
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\bin\Debug\Attendee.BusinessLayer_CS.dll
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\bin\Debug\Attendee.BusinessLayer_CS.pdb
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\bin\Debug\Attendee.PresentationLayer_CS.pdb
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\obj\Debug\Attendee.Windows_CS.FormRegistration.resources
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\obj\Debug\Attendee.Windows_CS.Properties.Resources.resources
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\obj\Debug\Attendee.Windows_CS_Complete.csproj.GenerateResource.Cache
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\obj\Debug\Attendee.Windows_CS.exe
+C:\Users\Jay.Smith\Documents\Visual Studio 2008\Projects\Model View Presenter\Demo\CS Demo\Attendee.Windows_CS_Complete\obj\Debug\Attendee.Windows_CS.pdb

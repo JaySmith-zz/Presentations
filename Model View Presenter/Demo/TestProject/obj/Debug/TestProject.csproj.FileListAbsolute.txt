@@ -1,0 +1,7 @@
+C:\Solutions\Presentations\Model View Presenter\Demo\TestProject\bin\Debug\TestProject.dll
+C:\Solutions\Presentations\Model View Presenter\Demo\TestProject\bin\Debug\TestProject.pdb
+C:\Solutions\Presentations\Model View Presenter\Demo\TestProject\bin\Debug\Core.dll
+C:\Solutions\Presentations\Model View Presenter\Demo\TestProject\bin\Debug\Core.pdb
+C:\Solutions\Presentations\Model View Presenter\Demo\TestProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Solutions\Presentations\Model View Presenter\Demo\TestProject\obj\Debug\TestProject.dll
+C:\Solutions\Presentations\Model View Presenter\Demo\TestProject\obj\Debug\TestProject.pdb

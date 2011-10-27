@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util
+END
+ReadOnlyPropertiesDictionary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/ReadOnlyPropertiesDictionary.cs
+END
+LevelMapping.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/LevelMapping.cs
+END
+SystemStringFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/SystemStringFormat.cs
+END
+EmptyDictionary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/EmptyDictionary.cs
+END
+LogicalThreadContextProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/LogicalThreadContextProperties.cs
+END
+WindowsSecurityContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/WindowsSecurityContext.cs
+END
+PatternParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/PatternParser.cs
+END
+SystemInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/SystemInfo.cs
+END
+OptionConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/OptionConverter.cs
+END
+PatternString.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/PatternString.cs
+END
+PatternConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/PatternConverter.cs
+END
+LevelMappingEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/LevelMappingEntry.cs
+END
+ReaderWriterLock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/ReaderWriterLock.cs
+END
+EmptyCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/EmptyCollection.cs
+END
+Transform.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/Transform.cs
+END
+NullEnumerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/NullEnumerator.cs
+END
+AppenderAttachedImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/AppenderAttachedImpl.cs
+END
+CompositeProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/CompositeProperties.cs
+END
+TextWriterAdapter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/TextWriterAdapter.cs
+END
+PropertiesDictionary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/PropertiesDictionary.cs
+END
+GlobalContextProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/GlobalContextProperties.cs
+END
+LogLog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/LogLog.cs
+END
+ThreadContextStacks.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/ThreadContextStacks.cs
+END
+ReusableStringWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/ReusableStringWriter.cs
+END
+FormattingInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/FormattingInfo.cs
+END
+QuietTextWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/QuietTextWriter.cs
+END
+ThreadContextProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/ThreadContextProperties.cs
+END
+ContextPropertiesBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/ContextPropertiesBase.cs
+END
+OnlyOnceErrorHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/OnlyOnceErrorHandler.cs
+END
+NativeError.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/NativeError.cs
+END
+CyclicBuffer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/CyclicBuffer.cs
+END
+CountingQuietTextWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/CountingQuietTextWriter.cs
+END
+NullDictionaryEnumerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/NullDictionaryEnumerator.cs
+END
+ThreadContextStack.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/ThreadContextStack.cs
+END
+NullSecurityContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/NullSecurityContext.cs
+END
+ProtectCloseTextWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Backup/Util/ProtectCloseTextWriter.cs
+END

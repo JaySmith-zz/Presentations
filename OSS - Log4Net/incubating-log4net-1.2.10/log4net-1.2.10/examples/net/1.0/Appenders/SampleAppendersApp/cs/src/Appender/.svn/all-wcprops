@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Appenders/SampleAppendersApp/cs/src/Appender
+END
+AsyncAppender.cs
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Appenders/SampleAppendersApp/cs/src/Appender/AsyncAppender.cs
+END
+MessageBoxAppender.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Appenders/SampleAppendersApp/cs/src/Appender/MessageBoxAppender.cs
+END
+MsmqAppender.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Appenders/SampleAppendersApp/cs/src/Appender/MsmqAppender.cs
+END
+PatternFileAppender.cs
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Appenders/SampleAppendersApp/cs/src/Appender/PatternFileAppender.cs
+END
+SimpleSmtpAppender.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Appenders/SampleAppendersApp/cs/src/Appender/SimpleSmtpAppender.cs
+END
+MessageObjectExpanderAppender.cs
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Appenders/SampleAppendersApp/cs/src/Appender/MessageObjectExpanderAppender.cs
+END
+FastDbAppender.cs
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Appenders/SampleAppendersApp/cs/src/Appender/FastDbAppender.cs
+END
+FireEventAppender.cs
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/examples/net/1.0/Appenders/SampleAppendersApp/cs/src/Appender/FireEventAppender.cs
+END

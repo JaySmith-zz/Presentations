@@ -1,0 +1,102 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="prop" priority="2" />
+      <Item value="string" priority="1" />
+      <Item value="int" priority="0" />
+      <Item value="pageContent" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="PageContent`0" priority="3" />
+      <Item value="model" priority="0" />
+      <Item value="repository" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="XhtmlMobileDocType`0" priority="1" />
+      <Item value="content" priority="2" />
+      <Item value="c" priority="0" />
+      <Item value="x" priority="0" />
+      <Item value="Html" priority="0" />
+      <Item value="Model" priority="0" />
+      <Item value="Content" priority="0" />
+      <Item value="ctor" priority="0" />
+      <Item value="TopContent" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="List&lt;PageContent&gt;" priority="0" />
+      <Item value="Page" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CmsDemo.Domain.PageContent">
+      <Item value="Id" priority="3" />
+      <Item value="Content" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CmsDemo.ViewModels.PageContentEditModel">
+      <Item value="Content" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CmsDemo.ViewModels.HomeIndexModel">
+      <Item value="Page" priority="1" />
+      <Item value="TopContent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CmsDemo.Data.IRepository">
+      <Item value="Get`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="AddRange`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="DisplayForModel`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Shared/d:DisplayTemplates/f:PageContent.ascx" caret="304" fromTop="9" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Shared/d:DisplayTemplates/f:Page.ascx" caret="128" fromTop="3" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:PageModels.cs" caret="112" fromTop="7" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Content/f:Edit.aspx" caret="363" fromTop="9" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Controllers/f:ContentController.cs" caret="532" fromTop="14" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:PageContentModels.cs" caret="137" fromTop="8" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:HomeModels.cs" caret="245" fromTop="12" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Controllers/f:HomeController.cs" caret="666" fromTop="23" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Home/f:Index.aspx" caret="480" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:PageModels.cs" caret="0" fromTop="0" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Shared/d:DisplayTemplates/f:Page.ascx" caret="0" fromTop="0" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Shared/d:DisplayTemplates/f:PageContent.ascx" caret="78" fromTop="0" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Shared/d:DisplayTemplates/f:PageContent.ascx" caret="253" fromTop="6" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:PageModels.cs" caret="188" fromTop="7" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:PageContentModels.cs" caret="208" fromTop="10" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Content/f:Edit.aspx" caret="149" fromTop="0" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Controllers/f:ContentController.cs" caret="150" fromTop="3" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Controllers/f:ContentController.cs" caret="432" fromTop="10" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Controllers/f:ContentController.cs" caret="563" fromTop="15" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Controllers/f:ContentController.cs" caret="951" fromTop="27" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Controllers/f:ContentController.cs" caret="1027" fromTop="31" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:HomeModels.cs" caret="308" fromTop="8" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:HomeModels.cs" caret="395" fromTop="14" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Controllers/f:HomeController.cs" caret="611" fromTop="19" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Home/f:Index.aspx" caret="735" fromTop="14" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Home/f:Index.aspx" caret="400" fromTop="7" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:PageContentModels.cs" caret="137" fromTop="8" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:HomeModels.cs" caret="245" fromTop="12" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Home/f:Index.aspx" caret="720" fromTop="22" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Home/f:Index.aspx" caret="480" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

@@ -1,0 +1,5 @@
+bin\Debug\Attendee.BusinessLayer_CS.dll
+bin\Debug\Attendee.BusinessLayer_CS.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Attendee.BusinessLayer_CS.dll
+obj\Debug\Attendee.BusinessLayer_CS.pdb

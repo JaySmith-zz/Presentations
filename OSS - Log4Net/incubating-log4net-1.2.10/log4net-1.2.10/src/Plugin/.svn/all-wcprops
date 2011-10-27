@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Plugin
+END
+PluginMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Plugin/PluginMap.cs
+END
+IPluginFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Plugin/IPluginFactory.cs
+END
+PluginSkeleton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Plugin/PluginSkeleton.cs
+END
+IPlugin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Plugin/IPlugin.cs
+END
+RemoteLoggingServerPlugin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Plugin/RemoteLoggingServerPlugin.cs
+END
+PluginCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Presentations/!svn/ver/44/Log4Net/incubating-log4net-1.2.10/log4net-1.2.10/src/Plugin/PluginCollection.cs
+END
