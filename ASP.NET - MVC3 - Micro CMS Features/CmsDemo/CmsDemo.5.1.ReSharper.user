@@ -54,21 +54,28 @@
   </CompletionStatisticsManager>
   <RecentFiles>
     <RecentFiles>
-      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Shared/d:DisplayTemplates/f:PageContent.ascx" caret="304" fromTop="9" />
-      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Shared/d:DisplayTemplates/f:Page.ascx" caret="128" fromTop="3" />
-      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:PageModels.cs" caret="112" fromTop="7" />
-      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Content/f:Edit.aspx" caret="363" fromTop="9" />
       <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Controllers/f:ContentController.cs" caret="532" fromTop="14" />
       <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:PageContentModels.cs" caret="137" fromTop="8" />
       <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:HomeModels.cs" caret="245" fromTop="12" />
-      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Controllers/f:HomeController.cs" caret="666" fromTop="23" />
-      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Home/f:Index.aspx" caret="480" fromTop="11" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Data/f:EntityFrameworkRepository.cs" caret="3366" fromTop="16" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Data/f:IRepository.cs" caret="136" fromTop="7" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/f:Global.asax.cs" caret="873" fromTop="29" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Controllers/f:HomeController.cs" caret="696" fromTop="24" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:PageModels.cs" caret="203" fromTop="10" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Controllers/f:PageController.cs" caret="581" fromTop="19" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Shared/d:DisplayTemplates/f:Page.ascx" caret="298" fromTop="9" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Page/f:Edit.aspx" caret="879" fromTop="26" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Shared/d:DisplayTemplates/f:PageContent.ascx" caret="307" fromTop="9" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Content/f:Edit.aspx" caret="0" fromTop="0" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Home/f:Index.aspx" caret="769" fromTop="24" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Home/f:About.aspx" caret="450" fromTop="10" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/f:Web.config" caret="1567" fromTop="35" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/f:Web.config" caret="4704" fromTop="19" />
     </RecentFiles>
     <RecentEdits>
       <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:PageModels.cs" caret="0" fromTop="0" />
       <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Shared/d:DisplayTemplates/f:Page.ascx" caret="0" fromTop="0" />
       <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Shared/d:DisplayTemplates/f:PageContent.ascx" caret="78" fromTop="0" />
-      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Shared/d:DisplayTemplates/f:PageContent.ascx" caret="253" fromTop="6" />
       <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:PageModels.cs" caret="188" fromTop="7" />
       <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:PageContentModels.cs" caret="208" fromTop="10" />
       <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Content/f:Edit.aspx" caret="149" fromTop="0" />
@@ -87,6 +94,7 @@
       <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:ViewModels/f:HomeModels.cs" caret="245" fromTop="12" />
       <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Home/f:Index.aspx" caret="720" fromTop="22" />
       <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Home/f:Index.aspx" caret="480" fromTop="11" />
+      <File id="70D0CFFB-3848-420C-B26C-8E012A4EEC72/d:Views/d:Shared/d:DisplayTemplates/f:PageContent.ascx" caret="304" fromTop="8" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

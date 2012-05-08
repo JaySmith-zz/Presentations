@@ -6,4 +6,4 @@
     <% { %>
         <%=Html.ActionLink("Edit", "Edit", "Content", new {id = Model.Id}, null)%>
     <% } %>
-</>
+</div>
